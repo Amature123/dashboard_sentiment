@@ -1,0 +1,4 @@
+kafka-scrapy-connect>=1.0.0
+confluent-kafka>=2.0.0
+scrapy>=2.5.0
+psycopg2>=2.9.1
